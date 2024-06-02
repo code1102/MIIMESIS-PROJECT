@@ -15,7 +15,7 @@
 </head>
 <div class="preloader">
         <div class="loader-container">
-            <img src="img/logo sin letra.png" alt="Preloader" class="miimesis-icon">
+            <img src="../img/logo sin letra.png" alt="Preloader" class="miimesis-icon">
         </div>
     </div>
 <header>
