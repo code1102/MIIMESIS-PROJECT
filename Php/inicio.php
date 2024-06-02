@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contactenos</title>
+    <title>MIIMESIS| Contactenos</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -32,7 +32,7 @@
                 <a href="../Sobre nosotros.html">Sobre nosotros</a>
                 <a href="../El equipo.html">El equipo</a>
                 <a href="../Php/inicio.php">Contactanos</a>
-                <a href="../Nuestra galeria.html">Galeria</a>
+                <a href="../Nuestra galeria.html">Galería</a>
         </nav>
         <section class="textos-header">
             <h1>Impulsa tu marca con MIIMESIS</h1>
