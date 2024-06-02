@@ -88,9 +88,9 @@ position: relative;
 
 .company-icon {
     position: absolute;
-        top: 30px; /* Ajusta la posición vertical según tus necesidades */
-        left: 10px; /* Ajusta la posición horizontal según tus necesidades */
-        height: 75px; /* Ajusta la altura según tus necesidades */
+        top: 30px; /* Ajusta la posición vertical  */
+        left: 10px; /* Ajusta la posición horizontal*/
+        height: 75px; /* Ajusta la altura */
         border: 2px solid black;
         cursor: pointer
     }
