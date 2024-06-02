@@ -10,7 +10,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
         rel="stylesheet">
-    <link rel="icon" href="img/favicon-32x32.png" type="image/x-icon">
+    <link rel="icon" href="../img/favicon-32x32.png" type="image/x-icon">
     <link rel="stylesheet" href="../css/estilos.css">
 </head>
 <div class="preloader">
@@ -20,7 +20,7 @@
     </div>
 <header>
     <header>
-        <img src="img/logo miimesis con letras.png" alt="Icono de la Compañía" class="company-icon">
+        <img src="../img/logo miimesis con letras.png" alt="Icono de la Compañía" class="company-icon">
         <nav>
         </a>
         <a href="https://www.instagram.com/miimesisarts/" target="_blank">
