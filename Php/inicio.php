@@ -91,16 +91,16 @@
     <footer>
         <div class="contenedor-footer">
             <div class="content-foo">
-                <h4>Phone</h4>
-                <p>8296312</p>
+                <h4>Ubicación</h4>
+                <p>Bogotá D.C</p>
             </div>
             <div class="content-foo">
                 <h4>Email</h4>
                 <p>produccionesdakureon@gmail.com</p>
             </div>
             <div class="content-foo">
-                <h4>Location</h4>
-                <p>8296312</p>
+                <h4>Teléfono</h4>
+                <p>+57320435235</p>
             </div>
         </div>
         <h2 class="titulo-final">&copy; MIIMESIS COLOMBIA | SoftCroma</h2>
