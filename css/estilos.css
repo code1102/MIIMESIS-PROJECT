@@ -312,9 +312,17 @@ main .sobre-nosotros{
     display: flex;
     justify-content: space-evenly;
 }
+.contenido-textos {
+    margin-top: 20px; /* Puedes ajustar el valor según sea necesario */
+}
+
+.contenedor.Sobre-nosotros p { 
+    font-size: 18px;
+    margin-top: 20px;
+}
 
 .imagen-about-us{
-    width: 48%;
+    width: 50%;
 }
 
 .sobre-nosotros .contenido-textos{
